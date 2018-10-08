@@ -4,3 +4,5 @@ my $c=$a+$b;
 
 print "\na value  = $a, b = $b\n";
 print "\nc value  = $c, $a, $b\n";
+
+print "hi there";
